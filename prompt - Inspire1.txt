@@ -1,0 +1,33 @@
+positive:  mertoqwmxois a man and julieqwmxo is a woman , They are in front of the house.
+negative:text, watermark
+
+
+-------------------
+positive:  mertoqwmxois a man and julieqwmxo is a woman , They are sitting on a bench in the park.
+
+negative:text, watermark
+
+
+-------------------
+positive: mertoqwmxois a man and julieqwmxo is a woman , They are dancing in a nightclub.
+
+negative:text, watermark
+
+
+-------------------
+positive: mertoqwmxois a man and julieqwmxo is a woman , They are walking down the Street
+
+negative:text, watermark
+
+
+-------------------
+positive: mertoqwmxois a man and julieqwmxo is a woman , They are having dinner in a restaurant
+
+negative:text, watermark
+
+
+-------------------
+positive: mertoqwmxois a man and julieqwmxo is a woman , They are posing at the airport entrance
+
+negative:text, watermark
+-------------------
